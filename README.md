@@ -6,7 +6,7 @@ This repository contains examples and exercises demonstrating the usage of the C
 
 Clone the repository to your local machine using:
 
-> git clone https://github.com/your-username/STL-Examples.git
+> git clone git@github.com:emon4075/STL.git
 
 
 ### Requirements
